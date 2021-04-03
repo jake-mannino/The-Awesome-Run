@@ -1,4 +1,4 @@
-# Be Awesome!
+# Be Awesome! 💡
 
 ## Help Walter reach his Definition of Awesome!
 
