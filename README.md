@@ -2,7 +2,7 @@
 
 ## Help Walter reach his Definition of Awesome!
 
-You, as the player, need to help Walter get through the Awesome Inc. Web Bootcamp. Throughout the journey, you need to be careful of the evil Kata monsters and the pitfalls of despair that will try to keep Walter from becoming the Web Developer he is meant to be (His Definition of Awesome). Are you up for the challenge!?
+You! As the player, need to help Walter get through the Awesome Inc. Web Bootcamp. Throughout the journey, you need to be careful of the evil Kata monsters and the pitfalls of despair that will try to keep Walter from becoming the Web Developer he is meant to be (His Definition of Awesome). Are you up for the challenge!?
 
  * A 2D 16 level platformer using the React Library
  * Get an artistic take on what it's like in the Bootcamp. 
